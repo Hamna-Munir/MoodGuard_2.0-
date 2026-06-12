@@ -1,0 +1,13 @@
+streamlit==1.35.0
+opencv-python==4.8.1.78
+mediapipe==0.10.14
+numpy==1.26.4
+pandas==2.2.2
+plotly==5.22.0
+scikit-learn==1.7.2
+python-dotenv==1.2.2
+google-genai==2.8.0
+onnxruntime==1.23.2
+streamlit-webrtc==0.47.6
+av==11.0.0
+Pillow==12.2.0
