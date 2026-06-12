@@ -7,7 +7,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ## 🚀 Live Demo
-[MoodGuard 2.0 on Streamlit Cloud](#) ← deploy ke baad link yahan add karo
+[MoodGuard 2.0 on Streamlit Cloud](#) 
 
 ## 💡 What It Does
 MoodGuard 2.0 is a complete AI Mental State Intelligence System that:
