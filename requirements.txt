@@ -7,7 +7,7 @@ plotly==5.22.0
 scikit-learn==1.7.2
 python-dotenv==1.2.2
 google-genai==2.8.0
-onnxruntime==1.23.2
+onnxruntime==1.18.0
 streamlit-webrtc==0.47.6
 av==11.0.0
 Pillow==10.4.0
